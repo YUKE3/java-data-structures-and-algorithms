@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e53f646-a4fd-4bf6-aa43-440281dd2d6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iLSIhvhHxBq0e8ViJBPxQspdVJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Ia">
+    <configuration name="Ia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ia" />
+      <module name="HW#3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PythonTracer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PythonTracer" />
+      <module name="HW#3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yTester" />
+      <module name="HW#3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ia" />
+        <item itemvalue="Application.PythonTracer" />
+        <item itemvalue="Application.yTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e53f646-a4fd-4bf6-aa43-440281dd2d6c" name="Default Changelist" comment="" />
+      <created>1601685300400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601685300400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="887" y="198" key="#Project_Structure" timestamp="1601685308749">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="887" y="198" key="#Project_Structure/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1601685308749" />
+    <state x="1218" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601746764180">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1218" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1601746764180" />
+    <state x="1198" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602009401747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1198" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602009401747" />
+    <state x="1220" y="294" key="FileChooserDialogImpl" timestamp="1602009400910">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1220" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602009400910" />
+    <state width="914" height="139" key="GridCell.Tab.0.bottom" timestamp="1602108317805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="139" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602108317805" />
+    <state width="914" height="139" key="GridCell.Tab.0.center" timestamp="1602108317805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="139" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602108317805" />
+    <state width="914" height="139" key="GridCell.Tab.0.left" timestamp="1602108317805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="139" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602108317805" />
+    <state width="914" height="139" key="GridCell.Tab.0.right" timestamp="1602108317805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="139" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602108317805" />
+    <state width="914" height="360" key="GridCell.Tab.1.bottom" timestamp="1601750345519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1601750345519" />
+    <state width="914" height="360" key="GridCell.Tab.1.center" timestamp="1601750345519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1601750345519" />
+    <state width="914" height="360" key="GridCell.Tab.1.left" timestamp="1601750345519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1601750345519" />
+    <state width="914" height="360" key="GridCell.Tab.1.right" timestamp="1601750345519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1601750345519" />
+    <state x="570" y="194" key="SettingsEditor" timestamp="1602108379089">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="570" y="194" key="SettingsEditor/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602108379089" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1602108332478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1602108332478" />
+  </component>
+</project>

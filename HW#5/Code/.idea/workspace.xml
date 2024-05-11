@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dffe6cd6-e6a6-4ebd-aa0f-0e9f84987ba5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jYb2CTlLeth5UsK4NALuXoG9bq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BashTerminal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BashTerminal" />
+      <module name="HW#5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BashTerminal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dffe6cd6-e6a6-4ebd-aa0f-0e9f84987ba5" name="Default Changelist" comment="" />
+      <created>1603983762536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603983762536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604435787496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="238" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604435787496" />
+    <state x="260" y="297" key="FileChooserDialogImpl" timestamp="1604434791302">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="260" y="297" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604434791302" />
+    <state width="900" height="294" key="GridCell.Tab.0.bottom" timestamp="1604439458505">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439458505" />
+    <state width="900" height="294" key="GridCell.Tab.0.center" timestamp="1604439458504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="294" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439458504" />
+    <state width="900" height="294" key="GridCell.Tab.0.left" timestamp="1604439458504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="294" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439458504" />
+    <state width="900" height="294" key="GridCell.Tab.0.right" timestamp="1604439458505">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="294" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439458505" />
+    <state width="900" height="297" key="GridCell.Tab.1.bottom" timestamp="1604439410613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439410613" />
+    <state width="900" height="297" key="GridCell.Tab.1.center" timestamp="1604439410613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="297" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439410613" />
+    <state width="900" height="297" key="GridCell.Tab.1.left" timestamp="1604439410613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="297" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439410613" />
+    <state width="900" height="297" key="GridCell.Tab.1.right" timestamp="1604439410613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="900" height="297" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604439410613" />
+    <state x="411" y="189" key="SettingsEditor" timestamp="1605307925706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="411" y="189" key="SettingsEditor/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1605307925706" />
+    <state x="136" y="254" key="run.anything.popup" timestamp="1604367219021">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="136" y="254" key="run.anything.popup/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1604367219021" />
+    <state x="143" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1605307868232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1605307868232" />
+  </component>
+</project>

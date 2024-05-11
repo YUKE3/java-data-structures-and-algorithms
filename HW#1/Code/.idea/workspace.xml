@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5db46851-4fc0-4d91-92d8-c6801cb9e21f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gqAiaSTIxPoZ11u1I8sqtQtEWq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Minecraft Modding/SkyblockHelper-0.1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="Application.PlannerManager">
+    <configuration name="Course" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course" />
+      <module name="HW#1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlannerManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlannerManager" />
+      <module name="HW#1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="HW#1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="HW#1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlannerManager" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Course" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5db46851-4fc0-4d91-92d8-c6801cb9e21f" name="Default Changelist" comment="" />
+      <created>1598831876628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598831876628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1598831885161">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1598831885161" />
+    <state x="797" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599411460162">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="797" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599411460162" />
+    <state x="718" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599505575581">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="718" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599505575581" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1599254450772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599254450772" />
+    <state width="914" height="461" key="GridCell.Tab.0.bottom" timestamp="1599507435939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="461" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599507435939" />
+    <state width="914" height="461" key="GridCell.Tab.0.center" timestamp="1599507435939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="461" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599507435939" />
+    <state width="914" height="461" key="GridCell.Tab.0.left" timestamp="1599507435939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="461" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599507435939" />
+    <state width="914" height="461" key="GridCell.Tab.0.right" timestamp="1599507435939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="461" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599507435939" />
+    <state width="914" height="360" key="GridCell.Tab.1.bottom" timestamp="1599505605555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599505605555" />
+    <state width="914" height="360" key="GridCell.Tab.1.center" timestamp="1599505605555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599505605555" />
+    <state width="914" height="360" key="GridCell.Tab.1.left" timestamp="1599505605555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599505605555" />
+    <state width="914" height="360" key="GridCell.Tab.1.right" timestamp="1599505605555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="360" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599505605555" />
+    <state x="401" y="199" width="1137" height="759" key="SettingsEditor" timestamp="1598897431238">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="401" y="199" width="1137" height="759" key="SettingsEditor/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1598897431238" />
+    <state x="634" y="245" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599496834292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="634" y="245" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599496834292" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1599505575425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1599505575425" />
+  </component>
+</project>
